@@ -10,3 +10,4 @@ router.get("/usuario/buscar", UsuarioController.buscarUsuario);
 
 module.exports = router;
 //creado por diego 
+//version 1
