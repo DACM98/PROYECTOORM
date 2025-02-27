@@ -9,3 +9,4 @@ router.put("/usuario/:id", UsuarioController.actualizarUsuario);
 router.get("/usuario/buscar", UsuarioController.buscarUsuario);
 
 module.exports = router;
+//creado por diego 
